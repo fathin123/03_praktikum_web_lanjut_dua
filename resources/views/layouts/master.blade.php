@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
     <title>@yield('title')</title>
@@ -28,9 +24,6 @@
 
 </head>
 <body  class="loading">
-    <!--[if lt IE 7]>
-    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
-    <![endif]-->
 
     <!-- HEADER -->
     <div class="site-header">
@@ -62,7 +55,7 @@
                 <div class="col-md-6">
                     <h3>Tugas Praktiktikum Kelompok Pemrogram Web Lanjut</h3>
                     <p>1. Fathin Naufaliya (2041723015) 
-                  <br>2. Thalia Amira Rifda (2041723005)</p>
+                  <br>2. Muhammad Dhiyaul Auliya (2041723007)</p>
                 </div>
                 <div class="col-md-6 text-center">
                     <div class="image-holder">
@@ -92,7 +85,7 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <p>Copyright &copy; 2021</p>
-                    <br>Fathin Naufaliya & Thalia Amira Rifda</br>
+                    <br>Fathin Naufaliya & Muhammad Dhiyaul Auliya</br>
                 </div>
             </div>
         </div>
